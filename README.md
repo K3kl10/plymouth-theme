@@ -4,6 +4,8 @@ Je vous partage un bootloader pour YUMI SmartPad - Wanhao-klipper-pad.<br>
 Voici le lien pour vous en procurer un: <br>
 https://wanhao-europe.com/collections/yumi-smart-pad/products/wanhao-klipper-pad?variant=50407737786708
 
+![illustration](./Yumi.gif)
+
 # Information sur l'utilisation et l'installation
 
 En premier lieu, vous devez récupérer le dossier du github.
